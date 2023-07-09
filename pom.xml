@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://http://172.31.35.25:9010/swecha/repository/faacebook-release//</url>
+	      <url>http://http://172.31.35.25:9010/swecha/repository/facebook-release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
